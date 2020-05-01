@@ -5,13 +5,19 @@
 Time spent: **15** hours spent in total
 
 ## Which HoneyPot(s) you deployed 
+  - honeypot-1 : dionaea
+  - honeypot-2 : conpot
+  - honeypot-3 : snort
+  - honeypot-4 : p0f
+  - honeypot-5 : elastichoney
 ![](VMInstances.png)
+![](SensorGif.gif)
+
 
 ## Any issues you encountered
 Suprisingly, none.
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
-![](SensorGif.gif)
 ![](AttackReportGif.gif) 
 ![](AttackStatsGIF.gif) 
 ![](AttackStats.png) 
